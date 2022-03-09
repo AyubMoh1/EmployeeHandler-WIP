@@ -15,8 +15,12 @@ This projects aim is to create a simple GUI to add employees and their skills to
 The following is to be implemented :
 
 *add
+<br />
 *sort 
+<br />
 *search based on skill, name
+<br />
 *date/time
+<br />
 *auto-timer for avalibility of employee
 
