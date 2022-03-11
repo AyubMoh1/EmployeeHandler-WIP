@@ -36,4 +36,4 @@ def addUsers():
 dlg.pushButton.clicked.connect(addUsers)
 loadData()
 dlg.show()
-app.exec()
+#app.exec()
