@@ -25,7 +25,7 @@ def clearData():
 
 def addUsers():
     name = dlg.lineEdit.text()
-    comp = dlg.lineEdit.text()
+    comp = dlg.lineEdit_2.text()
     user = (name, comp)
     helper.insert("INSERT INTO users(name,comp) VALUES (?,?)",user)
     clearData()
