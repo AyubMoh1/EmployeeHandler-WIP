@@ -51,7 +51,7 @@ def addUsers():
     loadData()
 
 def searchUser():
-    src = 'Ballan'
+    src = ''
     #srcs = dlg.lineEdit_3.text()
     loadsrc = QSqlQuery()
 
