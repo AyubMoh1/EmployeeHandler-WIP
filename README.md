@@ -10,7 +10,7 @@
 
 ## General info
 
-This projects aim is to create a simple GUI to add employees and their skills to a database. 
+This projects aim is to create a simple GUI to add employees and their skillset to a database. 
 
 The following is to be implemented :
 
